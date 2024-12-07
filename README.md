@@ -1,2 +1,2 @@
-# cs-related
- my config and sounds
+# Counter-Strike related
+ My autoexec files and custom sounds.
